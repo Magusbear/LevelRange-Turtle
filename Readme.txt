@@ -11,7 +11,7 @@ Title: 	        LevelRange
 Interface:      11200
 Version:        2.0.3
 
-Author:         Bull3t, Tenyar97, rado-boy, blehz.
+Author:         Bull3t, Tenyar97, rado-boy, blehz., Magusbear
 Addon Website:  https://github.com/Tenyar97/LevelRange-Turtle
 
 Current Features:
@@ -22,6 +22,9 @@ Current Features:
 ----------------------
 Change Log
 ----------------------
+2.0.4 - Update (Magusbear)
+ [*] Updated zones and dungeons to Turtle WoW 1.18.
+
 2.0.3 - Update (blehz.)
  [*] Updated zones, dungeons and raids to Turtle WoW 1.17.1.
 
